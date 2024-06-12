@@ -27,12 +27,10 @@
  <h5>The other views are the views for the various means of authentication and each routing is handled by the GoRouter package, from the code a simple navigation as been customized to _navigationService.pushScreen(context, LoginScreen.route)</h5> 
 
 
-#### Olawills Dating App with Flutter, Node JS, Express Js and Bloc for State management
+#### Dating App with Flutter, Node JS, Express Js and Bloc for State management
 
 <h5>This project is going to be a large and comprehensive with lots of features, bug fixings, and possible more addition of developers </h5>
 <h5>This project will be using it's own backend service which i will be creating myself with tge help of node and express js</h5>
 <h5> The project uses the MVVM pattern and Dependency injection (GetIt) to structure and organize all files and folders
 <h5>By the end of this project i will be providing the screenshot and also a detailed view of each folders and codes</h5>
-
-<h5>To enjoy Flutter utils stay follow me on my Linkedln and Twitter page which are <a href ="https://www.linkedln.com/in/olawills">Linkedln page</a> and <a href ="https://www.twitter.com/olawillfFlutter"> Twitter Page</a></h5>
 
